@@ -171,7 +171,7 @@ None
 ## Help For Builtins - Challenge 7
 ### This challenge requires us to use the help command using the in-built ones in the shell.
 
-**Flag:** `pwn.college{Qm9TrRCZsLtB4y7WbIYRjRQjyH_.QX0ETO0wyN4gjNzEzW}` 
+**Flag:** `pwn.college{0N9RZLfUN1preFJKt1LBmMcIxWO.QX0ETO0wyMwkjNzEzW}` 
 
 The process of obtaining the flag using the built in help commands for the challenge command and use the secret cmd obtained further for the flag.
 
@@ -245,5 +245,6 @@ pwn.college{0N9RZLfUN1preFJKt1LBmMcIxWO.QX0ETO0wyMwkjNzEzW}
 I learned that the 'help' command for built-in shell functions is a fast way to resolve questions about their usage. arguements can also be passed to the help command (here I passed challenge arguement)
 
 ## References
+
 
 None
