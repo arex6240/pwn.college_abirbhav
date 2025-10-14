@@ -67,7 +67,7 @@ None
 ## Appending Output - Challenge 3
 ### This challenge requires appending output to a file.
 
-**Flag:** `pwn.college{flag_here}`
+**Flag:** `pwn.college{IvOeHfl1h52MNmvoIwgwhthX00V.QX3ATO0wyMwkjNzEzW}`
 
 The process of obtaining the flag involved using the `>>` operator.
 
@@ -473,5 +473,6 @@ launched until you start reading from the FIFO!
 I learned how to use named pipes for inter-process communication. FIFOs block until both reader and writer are open, so start a reader (cat /tmp/flag_fifo) to unblock /challenge/run > /tmp/flag_fifo and I receive the flag
 
 ## References
+
 
 OPENAI LLM, GOOGLE GEMINI
